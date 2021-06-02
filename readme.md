@@ -45,3 +45,19 @@ Worth: 10pts
 https://leetcode.com/problems/reformat-department-table/
 
 Worth: 10pts
+
+## Cryptocurrency Trivia Quiz 
+
+https://forms.gle/9FgkvASWFKNyBxGW7
+
+How to submit: Send a message in your team's breakout chat to let us know you have completed the quiz. 
+
+Worth: 10 points
+
+## Cybersecurity Basics Crossword 
+
+https://share.eclipsecrossword.com/play/59f623f6/code-wars-80-crossword-cybersecurity-basics 
+
+How to submit: Submit a screenshot of the completed crossword in your team's breakout chat. 
+
+Worth: 10 points 
