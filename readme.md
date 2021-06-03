@@ -6,6 +6,8 @@ The goal is to find all the words in the pyramid. Start at the top with the firs
 
 To get started open the Word_Pyramid.pdf
 
+To submit type the answer into your teams chat
+
 Worth: 10pts
 
 ## Fallen Phrase
@@ -18,6 +20,8 @@ Good luck!
 
 To get started open Fallen_Phrase.pdf
 
+To submit type the phrase into your teams chat
+
 Worth: 10pts
 
 ## Cryptogram Puzzle
@@ -26,11 +30,15 @@ There has been a machine uprising!! A secret message has been left for you in sy
 
 To get started open Cryptogram_Puzzle.pdf
 
+To submit type the secret message into your teams chat
+
 Worth: 10pts
 
 ## Leetcode Challenge: Search in a Binary Search Tree
 
 https://leetcode.com/problems/search-in-a-binary-search-tree/
+
+To submit post your sumbitted solution in your chat with the success tag
 
 Worth: 10pts +5 for Golang
 
@@ -38,11 +46,15 @@ Worth: 10pts +5 for Golang
 
 https://leetcode.com/problems/check-if-the-sentence-is-pangram/
 
+To submit post your sumbitted solution in your chat with the success tag
+
 Worth: 10pts
 
 ## Leetcode Challenge: Reformat Department Table (SQL based)
 
 https://leetcode.com/problems/reformat-department-table/
+
+To submit post your sumbitted solution in your chat with the success tag
 
 Worth: 10pts
 
