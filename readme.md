@@ -81,3 +81,11 @@ https://share.eclipsecrossword.com/play/59f623f6/code-wars-80-crossword-cybersec
 How to submit: Submit a screenshot of the completed crossword in your team's breakout chat. 
 
 Worth: 10 points 
+
+## 1000
+
+There is a flag hidden somewhere in the directory named 1000, good luck finding it!
+
+To submit type the secret flag to one of the hosts of the codewars organizers.
+
+Worth: 10pts
