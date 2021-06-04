@@ -38,7 +38,7 @@ Worth: 10pts
 
 https://leetcode.com/problems/search-in-a-binary-search-tree/
 
-To submit post your sumbitted solution in your chat with the success tag
+To submit: post a screenshot of your accepted solution in your team's breakout chat
 
 Worth: 10pts +5 for Golang
 
@@ -46,15 +46,23 @@ Worth: 10pts +5 for Golang
 
 https://leetcode.com/problems/check-if-the-sentence-is-pangram/
 
-To submit post your sumbitted solution in your chat with the success tag
+To submit: post a screenshot of your accepted solution in your team's breakout chat
 
-Worth: 10pts
+Worth: 10pts + 5 for Golang
+
+## Leetcode Challenge: Invert Binary Tree
+
+https://leetcode.com/problems/invert-binary-tree/
+
+To submit: post a screenshot of your accepted solution in your team's breakout chat
+
+Worth: 10pts + 5 for Golang
 
 ## Leetcode Challenge: Reformat Department Table (SQL based)
 
 https://leetcode.com/problems/reformat-department-table/
 
-To submit post your sumbitted solution in your chat with the success tag
+To submit: post a screenshot of your accepted solution in your team's breakout chat
 
 Worth: 10pts
 
